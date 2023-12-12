@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1563492833 source:d:\bla bla\nw\c++\q\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+
+1564709028 source:e:\q\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1563286512 source:f:\1203\q\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+
+1564713028 source:e:\ris\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1565680348 source:e:\ris\ris 1.0.2\main.cpp
+	<tchar.h>
+	<ctype.h>
+	<windows.h>
+	<winuser.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1565718648 source:c:\ris 1.0.2\main.cpp
+	<tchar.h>
+	<ctype.h>
+	<windows.h>
+	<winuser.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
